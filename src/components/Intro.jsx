@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import Woman from 'E:/myWork/REACT JS/Agency/pink-agenct/src/img/woman.png.png';
+import Woman from '../img/woman.png';
 import AnimationShapes from './AnimationShapes';
 
 
@@ -63,7 +63,7 @@ const Info = styled.div`
     }
 `
 
-    const Button = styled.button`
+const Button = styled.button`
     padding: 15px;
     background-color: darkblue;
     color: white;
@@ -77,21 +77,21 @@ const Info = styled.div`
     margin-bottom: 20px;
   }
     `
-    const Contact = styled.div`
+const Contact = styled.div`
     display: flex;
     flex-direction: column;
     `
-    const Phone = styled.span`
+const Phone = styled.span`
         color:#f0667d;
         font-weight: bold;
     `
 
-    const ContactText = styled.span`
+const ContactText = styled.span`
         color:grey;
         margin-top: 5px;
     `
 
-    const Right = styled.div`
+const Right = styled.div`
         width: 40%;
 
         @media only screen and (max-width:480px){
@@ -100,7 +100,7 @@ const Info = styled.div`
   }
     `
 
-    const Image = styled.img`
+const Image = styled.img`
         width: 100%;
     `
 
