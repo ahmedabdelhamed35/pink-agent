@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import Search from 'E:/myWork/REACT JS/Agency/pink-agenct/src/img/search.png'
+import Search from '../img/search.png'
 
 
 {/*style*/ }

@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import Minicard from './Minicard'
-import Woman2 from 'E:/myWork/REACT JS/Agency/pink-agenct/src/img\/woman2.png'
-import Play from 'E:/myWork/REACT JS/Agency/pink-agenct/src/img/play.png'
+import Woman2 from '../img/woman2.png'
+import Play from '../img/play.png'
 
 {/*style*/ }
 const Container = styled.div`

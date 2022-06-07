@@ -1,8 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
-import Map from 'E:/myWork/REACT JS/Agency/pink-agenct/src/img/map.png'
-import Phone from 'E:/myWork/REACT JS/Agency/pink-agenct/src/img/phone.png'
-import Send from 'E:/myWork/REACT JS/Agency/pink-agenct/src/img/send.png'
+import Map from '../img/map.png'
+import Phone from '../img/phone.png'
+import Send from '../img/send.png'
 
 {/*style*/}
 

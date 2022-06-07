@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-import Call from "E:/myWork/REACT JS/Agency/pink-agenct/src/img/call.png"
+import Call from "../img/call.png"
 import AnimationShapes from "./AnimationShapes"
 
 
